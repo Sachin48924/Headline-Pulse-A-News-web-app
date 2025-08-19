@@ -25,7 +25,8 @@ A responsive news web application that delivers real-time headlines powered by t
 ## 📷 Screenshots
 (Add your screenshots here once you take them)  
 Example:
-![App Screenshot](assets/screenshot.png)
+<img width="1918" height="853" alt="image" src="https://github.com/user-attachments/assets/e9243b6e-caaa-4f9c-832f-c9cf17904d2e" />
+
 
 ---
 
