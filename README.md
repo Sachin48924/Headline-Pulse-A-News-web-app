@@ -57,5 +57,6 @@ Progressive Web App (PWA) support
 👨‍💻 Author
 
 Sachin Prajapati
+
 📧 Email: sachin48924@gmail.com
 🔗 GitHub: Sachin48924
